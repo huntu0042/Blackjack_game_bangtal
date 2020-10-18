@@ -12,8 +12,10 @@ enjoy and earn money!
 ## How to play 
 
 
+![main](https://user-images.githubusercontent.com/25008566/96364182-77e05080-1174-11eb-9b2b-1c9e4082a555.PNG)
+![game](https://user-images.githubusercontent.com/25008566/96364184-79117d80-1174-11eb-9395-7b3e0d61912a.PNG)
 
-Click 'Game Start' button to play 
+Bet money and Click 'Game Start' button to play 
 
 Game Description:
 https://namu.wiki/w/%EB%B8%94%EB%9E%99%EC%9E%AD(%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
