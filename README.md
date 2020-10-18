@@ -9,7 +9,9 @@ enjoy and earn money!
 ``pip install bangtal``
 
 
-##How to play
+##How to play 
+
+
 
 Click 'Game Start' button to play 
 
