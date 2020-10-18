@@ -9,7 +9,7 @@ enjoy and earn money!
 ``pip install bangtal``
 
 
-##How to play 
+## How to play 
 
 
 
@@ -35,7 +35,7 @@ https://ko.wikipedia.org/wiki/%EB%B8%94%EB%9E%99%EC%9E%AD
 - 지면 배팅한 금액을 잃습니다.
 
 ---
-###특징
+## 특징
 - 딜러와 플레이어의 카드 얻기  
 - 스코어 계산 및 비교 (ace 의 동적 변화)
 - 게임머니 배팅 및 관리
